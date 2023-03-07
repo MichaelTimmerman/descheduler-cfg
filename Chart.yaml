@@ -6,6 +6,6 @@ description: A chart for Kubernetes descheduler on OpenShift Container Platform
 version: 0.0.1-SNAPSHOT
 dependencies:
   - name: descheduler
-    version: 0.24.1
+    version: 0.26.0
     repository: http://nexus:8081/repository/helm-descheduler/
     alias: descheduler

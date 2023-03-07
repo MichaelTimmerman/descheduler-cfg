@@ -7,5 +7,5 @@ version: 0.0.1-SNAPSHOT
 dependencies:
   - name: descheduler
     version: 0.24.1
-    repository: https://kubernetes-sigs.github.io/descheduler/
+    repository: https://localhost:8081/repository/helm-descheduler/
     alias: descheduler
